@@ -1,0 +1,273 @@
+*{
+    margin:0;
+    padding:0;
+  }
+  body{
+
+
+    color:whitesmoke;
+    line-height:1.5;
+  }
+  .sectiontop{
+    background-image:url('C.jfif');
+    background-size:cover;
+    background-position:center;
+    height:60vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+
+  }
+
+  .newspan {
+    width: 900px
+  }
+
+.boxh2 {
+    color: black;
+    font-size: 30px;
+   
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.sectiontop h1{
+    font-size:40px;
+    font-weight: bold;
+
+  }
+
+.sectiontop span{
+    font-size:20px;
+    
+  }
+
+.sectiontop .button{
+ text-decoration:none;
+ font-weight: bold;
+    margin-top:35px;
+    color:whitesmoke;
+    padding:15px ;
+    border-radius:1px;
+    border:whitesmoke 1px solid;
+    font-size: 20px;
+    margin: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+  }
+
+.sectiontop .button:hover{
+        color:black;
+    background:whitesmoke;
+
+  }
+  .boxs{
+      /*display: flex;*/
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-align: center;
+    background-color: rgb(243, 243, 243);
+    
+  }
+
+  
+
+  .box1 {
+    width: 450px;
+    margin: 20px;
+
+  }
+
+  .box2 {
+    width: 450px;
+    margin: 20px;
+  }
+
+
+  .box1  h2{
+font-size: 20px;
+color:black;
+padding:30px;
+text-align: center;
+
+}
+.box1  span{
+    color:black;
+    font-size: 20px;
+   
+ 
+  
+}
+.box2  span{
+    color: black;
+    font-size: 20px;
+    
+ 
+
+}
+
+.colcol1{
+    margin: 20px;
+    
+}
+
+
+.col{
+    background-color:rgb(59, 56, 56);
+    padding: 35px;
+   display: flex;
+   justify-content: center;
+}
+.col1{
+    
+    margin-right: 20px;
+    width: 240px;
+    
+    background-color: white;
+}
+.col1 div{
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    
+    
+}
+.col1 h3{
+    color: black;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+.col2{
+    
+    margin-right: 20px;
+    width: 240px;
+    
+    background-color: white;
+}
+.col2 div{
+    color: black;
+    text-align: center;
+    font-size: 18px;
+}
+.col2 h3{
+    color: black;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+.col3{
+    
+    margin-right: 30px;
+    width: 240px;
+    
+    background-color: white;
+}
+.col3 div{
+    color: black;
+    text-align: center;
+    font-size: 18px;
+}
+.col3 h3{
+    color: black;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.section {
+    text-align: center;
+    /*margin-bottom: 20px;*/
+    padding-bottom: -5px;
+    padding-top: -5px;
+}
+
+.section h2{
+    color: black;
+    text-align: center;
+    padding: 50px;
+    font-size: 30px;
+}
+
+
+
+.handl1,p{
+    
+    color: black;
+    font-size: 20px;
+    padding-bottom: 30px;
+    margin-top: 0px;
+}
+
+.sol{
+    display: flex;
+    padding-top: 20px;
+   
+}
+.sol1{
+    background-color: rgb(0, 132, 255);
+    padding: 37px;
+   /* width: 1500px;*/
+   width:50%;
+   
+}
+.sol1 h2{
+    text-align: center;
+  
+}
+.sol1 div{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+} 
+.sol2{
+    background-color: rgb(43, 41, 41);
+    width:50%;
+   
+   
+}
+.sol2 h2{
+    text-align: center;
+    padding: 30px;
+}
+.sol2 div{
+    text-align: center;
+    
+    font-size: 20px;
+    padding-left: 27px;
+    padding-right: 33px;
+
+    
+} 
+.last{
+    background-color: black;
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+    font-size: 22px;
+    
+}
+.last1 span{
+    font-size: 22px;
+}
+
+
+.last2 a {
+    text-decoration: none;  
+    font-size: 22px; 
+  
+}
+.last2 p{
+    color: white;
+    font-size: 22px;
+}
+
+
